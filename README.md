@@ -1,4 +1,4 @@
-# Syncora AI Workspace
+# CollabRift AI Workspace
 
 AI-powered real-time collaboration workspace built with React, TypeScript, Redux Toolkit, and Vite.
 

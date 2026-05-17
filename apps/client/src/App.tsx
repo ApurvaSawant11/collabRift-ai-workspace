@@ -1,11 +1,7 @@
+import { AppRouter } from "./app/router/AppRouter";
 
-function App() {
-
-  return (
-    <>
-      <div>collabRift - AI powered collaboration workspace</div>
-    </>
-  )
+function App(){
+  return <AppRouter/>
 }
 
 export default App

@@ -26,7 +26,7 @@ const navItems = [
 
 export const Sidebar = () => {
   return (
-    <aside className="hidden w-72 border-r border-slate-800 bg-slate-900/70 p-5 backdrop-blur-xl lg:block">
+    <aside className="hidden w-72 shrink-0 border-r border-slate-800 bg-slate-900/70 p-5 backdrop-blur-xl lg:block">
       <h1 className="text-3xl font-bold text-violet-400">
         CollabRift
       </h1>
